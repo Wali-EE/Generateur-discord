@@ -38,6 +38,7 @@ Bibliothèque discord.py version 2.4.0.
 
 bash
 Copier le code
+Dézip "stock.zip"
 pip install -r requirements.txt
 Installation et Configuration
 Clonez ce dépôt :
